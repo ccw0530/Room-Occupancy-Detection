@@ -2,7 +2,11 @@
 Use Temperature, Relative Humidity, Light, CO2 and Humidity Ratio to detect room occupancy
 
 Removed time as variable for the analysis
+
+You can have a very first though that CO2 and Light would be the import factors for the prediction. Also, CO2 (human breathing) and lights could affect the temperature and therefore these three factors should be the most vital features
+
 Below is the correlation among other variables
+
 ![Image of companies distribution](https://github.com/ccw0530/Room-Occupancy-Detection/blob/main/Correlation.png)
 
 As 'Huminity' has relatively low correlation with 'Occupancy' and thus it is dropped in the dataset
