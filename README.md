@@ -3,7 +3,7 @@ Use Temperature, Relative Humidity, Light, CO2 and Humidity Ratio to detect room
 
 Removed time as variable for the analysis
 
-You can have a very first though that CO2 and Light would be the import factors for the prediction. Also, CO2 (human breathing) and lights could affect the temperature and therefore these three factors should be the most vital features
+You can have a very first though that CO2 and Light would be the important factors for the prediction. Also, CO2 (human breathing) and lights could affect the temperature and therefore these three factors should be the most vital features
 
 Below is the correlation among other variables
 
