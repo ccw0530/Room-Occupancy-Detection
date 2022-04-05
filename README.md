@@ -1,4 +1,7 @@
 # Room-Occupancy-Detection
+
+Credit to UCI Machine Learning Repository for providing the data (https://archive.ics.uci.edu/ml/datasets/Occupancy+Detection+)
+
 Use Temperature, Relative Humidity, Light, CO2 and Humidity Ratio to detect room occupancy
 
 Removed time as variable for the analysis
